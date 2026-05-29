@@ -5,13 +5,86 @@
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
-<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
-<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
-<link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
-<link rel="icon" href="/images/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/webpage-icon.png?v=20260529"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/webpage-icon.png?v=20260529" sizes="538x538"/>
+<link rel="shortcut icon" type="image/png" href="{{ base_path }}/images/webpage-icon.png?v=20260529"/>
+<link rel="manifest" href="{{ base_path }}/images/manifest.json?v=20260529"/>
 <meta name="theme-color" content="#ffffff"/>
+
+<style>
+  :root {
+    --ds-link-blue: #2f7fd3;
+    --ds-link-blue-hover: #1f66b1;
+  }
+
+  .page__content a,
+  .archive a,
+  .author__urls a {
+    color: var(--ds-link-blue);
+  }
+
+  .page__content a:hover,
+  .archive a:hover,
+  .author__urls a:hover {
+    color: var(--ds-link-blue-hover);
+  }
+
+  .author__urls .author__desktop {
+    white-space: nowrap;
+  }
+
+  .author__urls .author__desktop a {
+    display: inline;
+    margin-bottom: 0;
+    padding: 0;
+  }
+
+  .ds-hero {
+    border-left: 5px solid #2f6f73;
+    padding: 1.1rem 1.35rem;
+    margin: 0 0 1.5rem;
+    background: #f5faf9;
+  }
+
+  .ds-hero h2 {
+    margin-top: 0;
+  }
+
+  .ds-highlights {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: .8rem;
+    margin: 1.25rem 0 1.75rem;
+  }
+
+  .ds-highlight {
+    border: 1px solid #d9e7e5;
+    border-radius: 6px;
+    padding: .9rem;
+    background: #ffffff;
+  }
+
+  .ds-highlight strong {
+    display: block;
+    color: #1f5559;
+    font-size: 1.15rem;
+  }
+
+  .ds-section-note {
+    color: #586069;
+    font-size: .95rem;
+  }
+
+  .page__footer {
+    height: 0 !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+    background: transparent !important;
+    border: 0 !important;
+    pointer-events: none;
+  }
+</style>
 
 <!-- end custom head snippets -->

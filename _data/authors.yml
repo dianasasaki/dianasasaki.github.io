@@ -1,18 +1,15 @@
-# Authors
+# Site author metadata
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Diana Sasaki:
+  name        : "Diana Sasaki"
+  uri         : "https://dianasasaki.github.io"
+  email       :
+  bio         : "Associate Professor of Applied Mathematics at UERJ. CNPq Research Productivity Fellow, Level 2."
+  avatar      : "profile.jpeg"
+  location    : "Rio de Janeiro, Brazil"
+  location_url: "https://www.google.com/maps/place/Rio+de+Janeiro,+RJ/@-22.9140454,-43.611132,11z/data=!3m1!4b1!4m6!3m5!1s0x9bde559108a05b:0x50dc426c672fd24e!8m2!3d-22.9068467!4d-43.1728965!16zL20vMDZnbXI?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"
+  employer    : "Universidade do Estado do Rio de Janeiro"
+  employer_url: "https://www.uerj.br/"
+  googlescholar: "https://scholar.google.com.br/citations?user=yAzmd9YAAAAJ&hl=pt-BR&oi=ao"
+  orcid       : "https://orcid.org/0000-0002-0514-9918"
+  contact     : "/contact/"
