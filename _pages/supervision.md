@@ -28,10 +28,9 @@ author_profile: true
 
 ### Undergraduate Capstone Projects
 
-1. Raphael Braganca Gomes Martins. *Total coloring of bipartite graphs*. Started: 2023. Undergraduate capstone project in Computer Science, Universidade do Estado do Rio de Janeiro. Advisor.
-2. Jonas Eduardo Silva Bezerra. *Combinatorics challenges*. Started: 2023. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor.
-3. Mayara Christina Mendonca Ramos. *A study on combinatorial games*. Started: 2022. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor.
-4. Luiz Goncalves. *On fullerene graphs*. Started: 2019. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor.
+1. Jonas Eduardo Silva Bezerra. *Combinatorics challenges*. Started: 2023. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor.
+2. Mayara Christina Mendonca Ramos. *A study on combinatorial games*. Started: 2022. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor.
+3. Luiz Goncalves. *On fullerene graphs*. Started: 2019. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor.
 
 ### Undergraduate Research
 
@@ -45,57 +44,58 @@ author_profile: true
 
 ### Master's Dissertations
 
-1. Ingrid da Costa Silva Borchert. *The cost of perfection for matchings in graphs*. 2026. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki Nobrega.
-2. Daniel Debrohim. *Connectivity and recurrence in the graph of triangulations of cyclically colored convex polygons*. 2026. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki Nobrega.
-3. Mayara Christina Ramos. *A study on the determination of chromatic polynomials*. 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-4. Camille Braga Nader da Silva. *Games and play: developing skills through playfulness*. 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-5. Rieli Araujo Souza. *On equitable total coloring of snark graphs*. 2024. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki Nobrega.
-6. Sergio Fusquino Orfei. *On total coloring and the Firefighter problem in cubic graphs*. 2023. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki Nobrega.
-7. Matheus Nunes Adauto. *Equitable total coloring of small cubic graphs*. 2022. Master's dissertation in Systems Engineering and Computing, COPPE/UFRJ, CNPq. Co-advisor: Diana Sasaki Nobrega.
-8. Mariana Martins Ferreira da Cruz. *Fullerene Nanodiscs: From Chemistry to Combinatorics*. 2022. Master's dissertation in Systems Engineering and Computing, COPPE/UFRJ, CNPq. Co-advisor: Diana Sasaki Nobrega.
-9. Mauro Nigro Alves Junior. *On total coloring of circulant graphs*. 2021. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki Nobrega.
-10. Mayara Midori Omai. *Adjacent-vertex-distinguishing colorings in powers of paths*. 2018. Master's dissertation in Computer Science, Universidade Tecnologica Federal do Parana, Fundacao Araucaria. Co-advisor: Diana Sasaki Nobrega.
-11. Anderson Gomes da Silva. *A study on edge coloring and total coloring of graphs*. 2018. Master's dissertation in Mathematics, Pontificia Universidade Catolica do Rio de Janeiro, CNPq. Co-advisor: Diana Sasaki Nobrega.
-12. Luana Cordeiro de Almeida. *Total coloring and equitable total coloring of snark families*. 2017. Master's dissertation in Mathematics, Universidade Federal Fluminense, CAPES. Co-advisor: Diana Sasaki Nobrega.
+1. Ingrid da Costa Silva Borchert. *The cost of perfection for matchings in graphs*. 2026. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki.
+2. Daniel Debrohim. *Connectivity and recurrence in the graph of triangulations of cyclically colored convex polygons*. 2026. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki.
+3. Mayara Christina Ramos. *A study on the determination of chromatic polynomials*. 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+4. Camille Braga Nader da Silva. *Games and play: developing skills through playfulness*. 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+5. Rieli Araujo Souza. *On equitable total coloring of snark graphs*. 2024. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki.
+6. Sergio Fusquino Orfei. *On total coloring and the Firefighter problem in cubic graphs*. 2023. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki.
+7. Matheus Nunes Adauto. *Equitable total coloring of small cubic graphs*. 2022. Master's dissertation in Systems Engineering and Computing, COPPE/UFRJ, CNPq. Co-advisor: Diana Sasaki.
+8. Mariana Martins Ferreira da Cruz. *Fullerene Nanodiscs: From Chemistry to Combinatorics*. 2022. Master's dissertation in Systems Engineering and Computing, COPPE/UFRJ, CNPq. Co-advisor: Diana Sasaki.
+9. Mauro Nigro Alves Junior. *On total coloring of circulant graphs*. 2021. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki.
+10. Mayara Midori Omai. *Adjacent-vertex-distinguishing colorings in powers of paths*. 2018. Master's dissertation in Computer Science, Universidade Tecnologica Federal do Parana, Fundacao Araucaria. Co-advisor: Diana Sasaki.
+11. Anderson Gomes da Silva. *A study on edge coloring and total coloring of graphs*. 2018. Master's dissertation in Mathematics, Pontificia Universidade Catolica do Rio de Janeiro, CNPq. Co-advisor: Diana Sasaki.
+12. Luana Cordeiro de Almeida. *Total coloring and equitable total coloring of snark families*. 2017. Master's dissertation in Mathematics, Universidade Federal Fluminense, CAPES. Co-advisor: Diana Sasaki.
 
 ### Doctoral Dissertations
 
-1. Mariana Martins Ferreira da Cruz. *Structure and total coloring of fullerene graphs*. 2026. Ph.D. dissertation, Algorithms and Combinatorics line, Systems Engineering and Computing Program, COPPE/UFRJ, CAPES. Co-advisor: Diana Sasaki Nobrega.
-2. Matheus Nunes Adauto. *On the pebbling problem in regular graphs*. 2024. Ph.D. dissertation, Algorithms and Combinatorics line, Systems Engineering and Computing Program, COPPE/UFRJ, CAPES. Co-advisor: Diana Sasaki Nobrega.
-3. Mauro Nigro Alves Junior. *General aspects of graph conformability*. 2023. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki Nobrega.
-4. Caroline da Silva Reis. *The diameter of Cayley graphs*. 2021. Ph.D. dissertation, Algorithms and Combinatorics line, Systems Engineering and Computing Program, COPPE/UFRJ. Co-advisor: Diana Sasaki Nobrega.
+1. Mariana Martins Ferreira da Cruz. *Structure and total coloring of fullerene graphs*. 2026. Ph.D. dissertation, Algorithms and Combinatorics line, Systems Engineering and Computing Program, COPPE/UFRJ, CAPES. Co-advisor: Diana Sasaki.
+2. Matheus Nunes Adauto. *On the pebbling problem in regular graphs*. 2024. Ph.D. dissertation, Algorithms and Combinatorics line, Systems Engineering and Computing Program, COPPE/UFRJ, CAPES. Co-advisor: Diana Sasaki.
+3. Mauro Nigro Alves Junior. *General aspects of graph conformability*. 2023. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor: Diana Sasaki.
+4. Caroline da Silva Reis. *The diameter of Cayley graphs*. 2021. Ph.D. dissertation, Algorithms and Combinatorics line, Systems Engineering and Computing Program, COPPE/UFRJ. Co-advisor: Diana Sasaki.
 
 ### Undergraduate Capstone Projects
 
-1. Leonardo Torres and Luana Riemsdijk. *Rio, show your face*. 2025. Undergraduate capstone project in Computer Science, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-2. Jorge Albertoni. *Magic, Mathematics, and History*. 2023. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-3. Gabriel Leandro Antunes. *A study on Hamiltonian graphs*. 2022. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-4. Mayara Christina Mendonca Ramos. *A study on graph coloring*. 2022. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-5. Ingrid da Costa Silva Borchert. *A study on matchings*. 2022. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-6. Vinicius Rodrigues de Araujo Teixeira. *Graph theory and an application to computer networks*. 2020. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-7. Sergio Fusquino Orfei. *Total coloring in powers of cycle graphs*. 2020. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-8. Mariana Martins Ferreira da Cruz. *Total coloring of fullerene nanodiscs*. 2019. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-9. Matheus Nunes Adauto. *A study on total coloring of circulant graphs*. 2019. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-10. Yuri Henrique Serafim Boaventura. *Profit optimization problems applied to a small glass company*. 2019. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-11. Rodrigo Souza Florentino. *Sequence comparison algorithms*. 2013. Undergraduate capstone project in Computer Systems Technology, Universidade Federal Fluminense. Advisor: Diana Sasaki Nobrega.
+1. Raphael Braganca Gomes Martins. *Total coloring of bipartite graphs*. 2026. Undergraduate capstone project in Computer Science, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+2. Leonardo Torres and Luana Riemsdijk. *Rio, show your face*. 2025. Undergraduate capstone project in Computer Science, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+3. Jorge Albertoni. *Magic, Mathematics, and History*. 2023. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+4. Gabriel Leandro Antunes. *A study on Hamiltonian graphs*. 2022. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+5. Mayara Christina Mendonca Ramos. *A study on graph coloring*. 2022. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+6. Ingrid da Costa Silva Borchert. *A study on matchings*. 2022. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+7. Vinicius Rodrigues de Araujo Teixeira. *Graph theory and an application to computer networks*. 2020. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+8. Sergio Fusquino Orfei. *Total coloring in powers of cycle graphs*. 2020. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+9. Mariana Martins Ferreira da Cruz. *Total coloring of fullerene nanodiscs*. 2019. Undergraduate capstone project in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+10. Matheus Nunes Adauto. *A study on total coloring of circulant graphs*. 2019. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+11. Yuri Henrique Serafim Boaventura. *Profit optimization problems applied to a small glass company*. 2019. Undergraduate capstone project in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+12. Rodrigo Souza Florentino. *Sequence comparison algorithms*. 2013. Undergraduate capstone project in Computer Systems Technology, Universidade Federal Fluminense. Advisor: Diana Sasaki.
 
 ### Undergraduate Research
 
-1. Clayton Araujo. *The Firefighter problem*. 2022. Undergraduate research in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-2. Arthur Henrique de Souza Fernandes. *Transportation problem in graphs*. 2022. Undergraduate research in Computer Science, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-3. Marcello Graco Bispo Magalhaes Nogueira. *Hospital transport problems*. 2022. Undergraduate research in Computer Science, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-4. Rieli Araujo Souza. *Problems in Graphs*. 2021. Undergraduate research in Mathematics Education, Universidade do Estado do Rio de Janeiro, CNPq. Advisor: Diana Sasaki Nobrega.
-5. Henrique de Carvalho Barreiros. *Problems in Graphs*. 2021. Undergraduate research in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-6. Jorge Albertoni. *On combinatorial games*. 2021. Undergraduate research in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-7. Ingrid da Costa Silva Borchert. *Matchings in graphs*. 2021. Undergraduate research in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-8. Isabel Figueira. *Blowup snarks*. 2020. Undergraduate research in Mathematics, Universidade Federal Fluminense. Advisor: Diana Sasaki Nobrega.
-9. Bruno Sudre. *Coloring problems in graphs*. 2019. Undergraduate research in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-10. Matheus Naus. *Coloring problems in graphs*. 2019. Undergraduate research in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-11. Sergio Fusquino Orfei. *Theory and applications of problems in graphs*. 2019. Undergraduate research in Mathematics, Universidade do Estado do Rio de Janeiro, CNPq. Advisor: Diana Sasaki Nobrega.
-12. Anderson Gomes da Silva. *Total coloring of multipartite graphs*. 2016. Undergraduate research in Mathematics, Universidade Federal Fluminense. Advisor: Diana Sasaki Nobrega.
-13. Rafael Augusto Marques da Costa. *On coloring problems in graphs*. 2016. Undergraduate research in Engineering, Universidade do Estado do Rio de Janeiro, CNPq - Universal Project. Advisor: Diana Sasaki Nobrega.
-14. Raphael Braganca Gomes Martins. *On total coloring in graphs*. 2015. Undergraduate research in Computer Science, Universidade do Estado do Rio de Janeiro, PIBIC/UERJ. Advisor: Diana Sasaki Nobrega.
-15. Lucas Chrisostimo Farah. *Study on the Hamiltonian Cycle Problem*. 2015. Undergraduate research in Production Engineering, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki Nobrega.
-16. Clarissa Cunha Haiut. *On the Traveling Salesman optimization problem in graphs*. 2015. Undergraduate research in Production Engineering, Universidade do Estado do Rio de Janeiro, FAPERJ. Advisor: Diana Sasaki Nobrega.
-17. Thales Souza Fernandes. *Introduction to Discrete Mathematics*. 2010. Undergraduate research, Colegio de Aplicacao da UFRJ, CNPq. Advisor: Diana Sasaki Nobrega.
-18. Lucas Gabriel da Silva Silva. *How many colors does it take to color a map?* 2009. Undergraduate research, Colegio de Aplicacao da UFRJ, CNPq. Advisor: Diana Sasaki Nobrega.
+1. Clayton Araujo. *The Firefighter problem*. 2022. Undergraduate research in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+2. Arthur Henrique de Souza Fernandes. *Transportation problem in graphs*. 2022. Undergraduate research in Computer Science, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+3. Marcello Graco Bispo Magalhaes Nogueira. *Hospital transport problems*. 2022. Undergraduate research in Computer Science, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+4. Rieli Araujo Souza. *Problems in Graphs*. 2021. Undergraduate research in Mathematics Education, Universidade do Estado do Rio de Janeiro, CNPq. Advisor: Diana Sasaki.
+5. Henrique de Carvalho Barreiros. *Problems in Graphs*. 2021. Undergraduate research in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+6. Jorge Albertoni. *On combinatorial games*. 2021. Undergraduate research in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+7. Ingrid da Costa Silva Borchert. *Matchings in graphs*. 2021. Undergraduate research in Mathematics Education, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+8. Isabel Figueira. *Blowup snarks*. 2020. Undergraduate research in Mathematics, Universidade Federal Fluminense. Advisor: Diana Sasaki.
+9. Bruno Sudre. *Coloring problems in graphs*. 2019. Undergraduate research in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+10. Matheus Naus. *Coloring problems in graphs*. 2019. Undergraduate research in Mathematics, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+11. Sergio Fusquino Orfei. *Theory and applications of problems in graphs*. 2019. Undergraduate research in Mathematics, Universidade do Estado do Rio de Janeiro, CNPq. Advisor: Diana Sasaki.
+12. Anderson Gomes da Silva. *Total coloring of multipartite graphs*. 2016. Undergraduate research in Mathematics, Universidade Federal Fluminense. Advisor: Diana Sasaki.
+13. Rafael Augusto Marques da Costa. *On coloring problems in graphs*. 2016. Undergraduate research in Engineering, Universidade do Estado do Rio de Janeiro, CNPq - Universal Project. Advisor: Diana Sasaki.
+14. Raphael Braganca Gomes Martins. *On total coloring in graphs*. 2015. Undergraduate research in Computer Science, Universidade do Estado do Rio de Janeiro, PIBIC/UERJ. Advisor: Diana Sasaki.
+15. Lucas Chrisostimo Farah. *Study on the Hamiltonian Cycle Problem*. 2015. Undergraduate research in Production Engineering, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+16. Clarissa Cunha Haiut. *On the Traveling Salesman optimization problem in graphs*. 2015. Undergraduate research in Production Engineering, Universidade do Estado do Rio de Janeiro, FAPERJ. Advisor: Diana Sasaki.
+17. Thales Souza Fernandes. *Introduction to Discrete Mathematics*. 2010. Undergraduate research, Colegio de Aplicacao da UFRJ, CNPq. Advisor: Diana Sasaki.
+18. Lucas Gabriel da Silva Silva. *How many colors does it take to color a map?* 2009. Undergraduate research, Colegio de Aplicacao da UFRJ, CNPq. Advisor: Diana Sasaki.

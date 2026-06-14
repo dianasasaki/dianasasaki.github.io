@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="ds-hero">
-  <h2>Hi, I am Diana! 👋</h2>
+  <h2>Hi, I am Diana Sasaki! 👋</h2>
   <p>I am an applied mathematician at UERJ, and I work with combinatorics, graph theory, algorithms, and computational complexity. My favorite problems live where elegant mathematics meets hard computational questions.</p>
 </div>
 

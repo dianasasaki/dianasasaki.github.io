@@ -16,7 +16,6 @@ mathjax: true
 - Associate Professor, Department of Applied Mathematics, Institute of Mathematics and Statistics, UERJ.
 - Deputy Coordinator, Graduate Program in Computational Sciences and Mathematical Modeling, COMPMAT/IME/UERJ.
 - Chair, Scholarship Committee, Graduate Program in Computational Sciences and Mathematical Modeling.
-- Deputy Head, Department of Applied Mathematics, IME/UERJ.
 - Member, board of the CCOMP graduate program.
 - Teacher in OME - OBMEP Mirim na Escola, IMPA.
 - Participant in Meninas Olimpicas do IMPA.
@@ -82,6 +81,5 @@ mathjax: true
 
 - I serve as Deputy Coordinator of COMPMAT/IME/UERJ.
 - I chair the Scholarship Committee of the Graduate Program in Computational Sciences and Mathematical Modeling.
-- I serve as Deputy Head of the Department of Applied Mathematics.
 - I sit on the board of the CCOMP graduate program.
 - I served on UERJ's PR2 Advisory Council from 2022 to 2024.

@@ -7,7 +7,7 @@ mathjax: true
 ---
 
 {% if site.author.googlescholar %}
-You can also find these publications on [Diana Sasaki's Google Scholar profile]({{ site.author.googlescholar }}).
+You can also find these publications on [the Google Scholar profile for Diana Sasaki]({{ site.author.googlescholar }}).
 {% endif %}
 
 ## Journal Articles
