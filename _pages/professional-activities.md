@@ -82,4 +82,5 @@ mathjax: true
 - I serve as Deputy Coordinator of COMPMAT/IME/UERJ.
 - I chair the Scholarship Committee of the Graduate Program in Computational Sciences and Mathematical Modeling.
 - I sit on the board of the CCOMP graduate program.
+- I served as Deputy Head of the Department of Applied Mathematics, IME/UERJ, from 2020 to 2022.
 - I served on UERJ's PR2 Advisory Council from 2022 to 2024.
