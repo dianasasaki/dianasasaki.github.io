@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Here is a compact map of the main sections of this website:
+This website presents public academic information primarily from my [Lattes CV](https://lattes.cnpq.br/3041110572471417), last updated on 7 August 2026. Recent invited lectures are also linked to the organizers' official pages. The main sections are:
 
 - [Research]({{ '/research/' | relative_url }})
 - [Publications]({{ '/publications/' | relative_url }})

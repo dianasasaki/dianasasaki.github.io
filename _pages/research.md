@@ -13,33 +13,36 @@ mathjax: true
 
 ## Research Projects
 
-- **2023 - present:** CAPES - Program for Support to Events in Brazil (PAEP 2023) - VI Semana do IME and III PROFMAT Meeting of Rio de Janeiro.
-- **2023 - present:** FAPERJ - Scientist of Our State - Complexity in problems of combinatorics and graph theory.
-- **2023 - present:** CNPq/MCTIC-SEPED - Our sciences, knowledge, and traditions.
-- **2023 - present:** FAPERJ - Support Program for the Organization of Scientific, Technological, and Innovation Events in Rio de Janeiro - Colloquia and Events of the Institute of Mathematics and Statistics at UERJ.
-- **2022 - 2025:** CNPq - Universal Project - Algorithmic and complexity aspects in problems of combinatorics and graph theory.
-- **2022 - 2023:** CNPq/MCTI/FNDCT - National Science and Technology Week at UERJ.
-- **2022 - 2023:** FAPERJ - Support for the Organization of Scientific, Technological, and Innovation Events in Rio de Janeiro.
-- **2022 - present:** FAPERJ - Support for Graduate Programs and Courses in the State of Rio de Janeiro 2021 - support for computational infrastructure adaptation and safe post-pandemic return of the Graduate Program in Computational Sciences.
-- **2021 - present:** FAPERJ - Young Scientist of Our State - Theory and applications of problems in graphs.
-- **2020 - 2024:** FAPERJ 2019 - ARC - Support for Recently Hired Researchers.
-- **2017 - 2020:** CNPq - Universal Project - Problems in graphs: colorings and matchings.
-- **2017 - 2020:** CNPq - Universal Project - Combinatorial Problems in Graphs: Algorithms and Complexity.
-- **2017 - 2018:** L'Oreal For Women in Science 2017 Award. Description: research grant.
-- **2017 - 2017:** FAPERJ - APQ1 - On colorings and matchings in graphs.
-- **2016 - 2016:** FAPERJ - Installation Grant - Problems in graphs: colorings and matchings.
-- **2015 - 2018:** PHC PROTEUS - Structural and Algorithic Aspects of Graph Classes Defined by Cliques and Stable Sets. Description: Grant PHC PROTEUS 2015 PROJET N°33298YM.
-- **2014 - 2017:** CAPES-Math-Amsud - Discrete mathematics: graph partition problems.
-- **2010 - 2014:** CAPES/COFECUB - Separators and connectivity.
-- **2010 - 2014:** FAPERJ - Scientists of Our State - Complexity of graph decomposition and applications.
-- **2010 - present:** CNPq - Universal Project - Complexity of combinatorial problems: the polynomial/NP-complete dichotomy.
-- **2005 - present:** FAPERJ - Scientists of Our State - Complexity of combinatorial problems; their approximation, parallel, and distributed algorithms; and their applications.
+These are projects in which I have been involved, as listed in my CV.
+
+- **2026–present:** CNPq Universal project *AlgBioSeg: Complexity of Algorithms and Applications in Computational Biology and Post-Quantum Cybersecurity*.
+- **2023–present:** FAPERJ *Cientistas do Nosso Estado* project on complexity in combinatorics and graph theory.
+- **2023–2024:** CAPES PAEP support for VI Semana do IME and III PROFMAT Meeting of Rio de Janeiro.
+- **2023–2025:** CNPq/MCTIC-SEPED project *Our sciences, knowledge, and traditions*.
+- **2023–2024:** FAPERJ support for colloquia and events at IME/UERJ.
+- **2022–2025:** CNPq Universal project on algorithmic and complexity aspects of combinatorics and graph theory.
+- **2022–2023:** CNPq/MCTI/FNDCT project for the National Science and Technology Week at UERJ.
+- **2022–2023:** FAPERJ project supporting the organization of scientific, technological, and innovation events in Rio de Janeiro.
+- **2022–2024:** FAPERJ support for computational infrastructure at the Graduate Program in Computational Sciences.
+- **2021–present:** FAPERJ Young Scientist of Our State project on the theory and applications of graph problems.
+- **2020–2024:** FAPERJ ARC support for recently hired researchers.
+- **2017–2020:** CNPq Universal project on graph coloring and matchings.
+- **2017–2020:** CNPq Universal project on combinatorial problems in graphs, algorithms, and complexity.
+- **2017–2018:** L'Oréal For Women in Science 2017 research grant.
+- **2017:** FAPERJ APQ1 project on graph colorings and matchings.
+- **2016:** FAPERJ installation grant for research on graph colorings and matchings.
+- **2015–2018:** PHC PROTEUS — Structural and Algorithmic Aspects of Graph Classes Defined by Cliques and Stable Sets (project 33298YM).
+- **2014–2017:** CAPES Math-AmSud project on graph partition problems in discrete mathematics.
+- **2010–2014:** CAPES/COFECUB project on separators and connectivity.
+- **2010–2014:** FAPERJ Scientists of Our State project on graph decomposition complexity and applications.
+- **2010–present:** CNPq Universal project on combinatorial complexity and the polynomial/NP-complete dichotomy.
+- **2005–2022:** FAPERJ *Cientistas do Nosso Estado* project on combinatorial complexity and approximation, parallel, and distributed algorithms.
 
 ## Outreach, Innovation, and Other Projects
 
-- **2022 - 2023:** National Science and Technology Week at UERJ.
-- **2019 - present:** Meninas Olimpicas do IMPA. Description: the project promotes the effective participation of girls in basic education in mathematics and science activities, encouraging them to pursue careers in Science, Technology, Engineering, and Mathematics (STEM). It directly involves girls from basic education, teachers from public school systems, and undergraduate students in Mathematics Education from public universities including UERJ, UNIRIO, UFRJ, UFRRJ, and UFF.
-- **2021 - 2023:** Support for computational infrastructure adaptation and safe post-pandemic return of the Graduate Program in Computational Sciences.
-- **2019 - 2024:** Safety, accessibility, and energy efficiency at IME/UERJ. Description: FAPERJ project, Support for State Universities call - UERJ, UENF, and UEZO - 2018.
-- **2015 - 2018:** Adaptation of offices for newly hired professors at the Institute of Mathematics and Statistics. Description: FAPERJ Project, Call 16/2015 Research Infrastructure.
-- **2015 - present:** Teaching, Research, and Outreach Infrastructure in Computer Graphics and Algorithms. Description: FAPERJ Project, Call 14/2015 - Support for State Universities - UERJ, UENF, and UEZO.
+- **2022–2023:** National Science and Technology Week at UERJ.
+- **2019–present:** Meninas Olímpicas do IMPA, promoting girls' participation in mathematics and science and encouraging STEM careers.
+- **2021–2023:** Project supporting computational infrastructure adaptation and safe post-pandemic return of the Graduate Program in Computational Sciences.
+- **2019–2024:** FAPERJ project on safety, accessibility, and energy efficiency at IME/UERJ (Support for State Universities call, 2018).
+- **2015–2018:** FAPERJ project adapting offices for newly hired professors at the Institute of Mathematics and Statistics (Research Infrastructure call 16/2015).
+- **2015–present:** FAPERJ project on teaching, research, and outreach infrastructure in computer graphics and algorithms (Support for State Universities call 14/2015).

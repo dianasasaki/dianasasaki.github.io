@@ -12,11 +12,13 @@ author_profile: true
 
 ## Degrees
 
-- **Ph.D. in Systems Engineering and Computing**, [PESC/COPPE/UFRJ](https://pesc.coppe.ufrj.br/pt/o-pesc). My dissertation is on total coloring of cubic graphs. I work under the supervision of Celina M. Herrera de Figueiredo and Simone Dantas de Souza, with a doctoral research period at [Laboratoire G-SCOP](https://g-scop.grenoble-inp.fr/) in Grenoble with Myriam Preissmann.
-- **M.Sc. in Systems Engineering and Computing**, [PESC/COPPE/UFRJ](https://pesc.coppe.ufrj.br/pt/o-pesc). My thesis is on total coloring of snark families, supervised by Celina M. Herrera de Figueiredo and Simone Dantas de Souza.
-- **B.Sc. in Mathematics**, [Institute of Mathematics](https://im.ufrj.br/), [Universidade Federal do Rio de Janeiro](https://ufrj.br/).
+I earned my graduate degrees in the [Systems Engineering and Computer Science Program (PESC)](https://www.cos.ufrj.br/) at the [Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering (COPPE)](https://coppe.ufrj.br/en/), [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/).
+
+- **Ph.D. in Systems Engineering and Computer Science (2010–2013)**, PESC/COPPE/UFRJ. My doctoral dissertation, *On total coloring of cubic graphs*, was supervised by Celina M. Herrera de Figueiredo and Simone Dantas de Souza. I also conducted doctoral research at [Laboratoire G-SCOP](https://g-scop.grenoble-inp.fr/) in Grenoble under Myriam Preissmann, with CAPES/COFECUB support; my doctorate was supported by CNPq.
+- **M.Sc. in Systems Engineering and Computer Science (2008–2010)**, PESC/COPPE/UFRJ. My master's thesis, *Total Coloring of Snark Families*, was supervised by Celina M. Herrera de Figueiredo and Simone Dantas de Souza, with CAPES support.
+- **B.Sc. in Mathematics (2005–2008)**, [Institute of Mathematics](https://im.ufrj.br/), [Federal University of Rio de Janeiro](https://ufrj.br/).
 
 ## Postdoctoral Research
 
-- **[Universite Paris-Dauphine - PSL](https://dauphine.psl.eu/en/)**, France. I work on topics in theoretical computer science, algorithms, and computational complexity.
-- **[COPPE/UFRJ](https://coppe.ufrj.br/)**, [Universidade Federal do Rio de Janeiro](https://ufrj.br/), Brazil. I continue my research in graph theory, combinatorics, algorithms, and complexity.
+- **[Université Paris-Dauphine](https://dauphine.psl.eu/en/), France (2014–2015).** Postdoctoral research in computer science, supported by CNPq.
+- **[COPPE/UFRJ](https://coppe.ufrj.br/), Brazil (2013–2014).** Postdoctoral research in computer science, supported by CNPq.

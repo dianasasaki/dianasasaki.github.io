@@ -12,19 +12,19 @@ author_profile: true
 
 ## Editorial Work
 
-- Editor-in-Chief, *Cadernos do IME - Serie Matematica*.
+- Editor-in-Chief, *Cadernos do IME — Série Matemática* (since 2024).
 
 ## Journal Reviewing
 
-- *Discrete Mathematics and Theoretical Computer Science*.
-- *Cadernos do IME, Serie Matematica*.
+- *Discrete Mathematics & Theoretical Computer Science*.
+- *Cadernos do IME — Série Matemática*.
 - *Procedia Computer Science*.
-- *RAIRO - Operations Research*.
+- *RAIRO — Operations Research*.
 - *Proyecciones*.
 - *Electronic Notes in Theoretical Computer Science*.
 - *Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*.
 - *Acta Mathematica Universitatis Comenianae*.
-- *Matematica Contemporanea*.
+- *Matemática Contemporânea*.
 - *Discrete Mathematics*.
 - *Discrete Applied Mathematics*.
 - *Electronic Notes in Discrete Mathematics*.

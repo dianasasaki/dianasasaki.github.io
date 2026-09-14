@@ -9,22 +9,24 @@ author_profile: true
 
 ### Master's Dissertations
 
-1. Gabriel Lambranho Ramos Faia. *The financial education game*. Started: 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor.
-2. Giovanna Varandas da Gama. *On combinatorial games*. Started: 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
-3. Tatiana Nicodemos. *Graphs in economics*. Started: 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
+1. José de Jesus Rosa. *On Hamiltonian graphs*. Started: 2026. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
+2. Tatiana Nicodemos. *Graphs in economics*. Started: 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
+3. Gabriel Lambranho Ramos Faia. *The financial education game*. Started: 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor.
+4. Giovanna Varandas da Gama. *On combinatorial games*. Started: 2025. Master's dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
 
 ### Doctoral Dissertations
 
 1. Ingrid da Costa Silva Borchert. *The quality of matchings in regular graphs*. Started: 2026. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
-2. Daniel Debrohim. *Properties in associahedron graphs*. Started: 2026. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
-3. Mayara Christina Ramos. *On chromatic polynomials*. Started: 2025. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
-4. Rieli Araujo Souza. *Total coloring of snark graphs*. Started: 2024. Ph.D. dissertation, Algorithms and Combinatorics line, Systems Engineering and Computing Program, COPPE/UFRJ. Co-advisor.
+2. Isabela Alcantara do Nascimento. *Statistical analysis of science fairs in Rio de Janeiro and Brazil*. Started: 2026. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
+3. Daniel Debrohim. *Properties in associahedron graphs*. Started: 2026. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
+4. Mayara Christina Ramos. *On chromatic polynomials*. Started: 2025. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
 5. Diego Tranjan Viug. *On colorings and matchings*. Started: 2024. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro. Advisor.
-6. Sergio Fusquino Orfei. *On the Firefighter game in graphs*. Started: 2023. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor.
+6. Sérgio Fusquino Orfei. *On the Firefighter game in graphs*. Started: 2023. Ph.D. dissertation in Computational Sciences, Universidade do Estado do Rio de Janeiro, CAPES. Advisor.
+7. Rieli Araújo Souza. *Total coloring of snark graphs*. Started: 2024. Ph.D. dissertation, Algorithms and Combinatorics line, Systems Engineering and Computing Program, COPPE/UFRJ. Co-advisor.
 
 ### Postdoctoral Supervision
 
-1. Diego de Souza Nicodemos. Started: 2022. Universidade do Estado do Rio de Janeiro.
+1. Diego de Souza Nicodemos. 2026. Universidade do Estado do Rio de Janeiro.
 
 ### Undergraduate Capstone Projects
 
@@ -36,7 +38,7 @@ author_profile: true
 
 1. Bruno Sudre. *On matching problems in graphs*. Started: 2024. Undergraduate research in Mathematics Education, Universidade do Estado do Rio de Janeiro, SELIC/UERJ. Advisor.
 
-### Visiting Professor Supervision
+### Other Supervision
 
 1. Valmir Carneiro Barbosa. *Coloring and multicoloring in graphs: new properties, phase transitions, and computational complexity based on arbitrary sets of instances*. Started: 2024. Other supervision, Universidade do Estado do Rio de Janeiro, FAPERJ. Advisor.
 
@@ -99,3 +101,8 @@ author_profile: true
 16. Clarissa Cunha Haiut. *On the Traveling Salesman optimization problem in graphs*. 2015. Undergraduate research in Production Engineering, Universidade do Estado do Rio de Janeiro, FAPERJ. Advisor: Diana Sasaki.
 17. Thales Souza Fernandes. *Introduction to Discrete Mathematics*. 2010. Undergraduate research, Colegio de Aplicacao da UFRJ, CNPq. Advisor: Diana Sasaki.
 18. Lucas Gabriel da Silva Silva. *How many colors does it take to color a map?* 2009. Undergraduate research, Colegio de Aplicacao da UFRJ, CNPq. Advisor: Diana Sasaki.
+
+### Other Supervision
+
+1. Natan Figueiredo and Vitor Bueno Entringe de Souza. *Teaching Internship I of COMPMAT*. 2023. Other supervision, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.
+2. Matheus Nunes Adauto and Mariana Martins Ferreira da Cruz. *Teaching assistantship*. 2023. Other supervision, Universidade do Estado do Rio de Janeiro. Advisor: Diana Sasaki.

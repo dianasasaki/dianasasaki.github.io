@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
+- **2026:** [Plenary speaker](https://umi.dm.unibo.it/jm-ita-bra-2026/plenary-speakers/) at the 2nd Joint Meeting Brazil–Italy in Mathematics, University of Messina, Italy; lecture: “The total coloring problem and its variants.”
+- **2025:** Invited speaker in the Combinatorics Session of the Brazilian Mathematics Colloquium, IMPA.
+- **2025:** Invited speaker at the Meeting of Remarkable Women in Mathematics, Escola Firjan SESI Benfica.
 - **2025:** Affiliated member of the Brazilian Academy of Sciences (ABC).
 - **2025:** Invited speaker at Meninas Olimpicas do IMPA (MOI), IMPA.
 - **2025:** Invited speaker at the PESC Seminar, PESC/COPPE Universidade Federal do Rio de Janeiro.
@@ -18,7 +21,7 @@ author_profile: true
 - **2022:** Invited speaker at the I Meninas Olimpicas do IMPA (MOI), IMPA.
 - **2022:** The work "On total coloring of subcubic graphs" was highlighted at UERJ's National Science and Technology Week, UERJ (Semana do IME).
 - **2022:** Invited speaker at the XI Summer School in Mathematics at UFS, Universidade Federal de Sergipe.
-- **2022:** Member of the Advisory Council of UERJ's Office of Graduate Studies and Research (PR2), 2022-2024, UERJ.
+- **2022–2024:** Member of the Advisory Council for Graduate Studies and Research within UERJ's Central Administration (PR2).
 - **2021:** Young Scientist of Our State Fellow, FAPERJ.
 - **2021:** Undergraduate research student Sergio Fusquino Orfei received second place in the Nilcea Freire Science Initiation Award, UERJ.
 - **2020:** Invited speaker at the I Meeting of Mathematics Education Programs at IFRS, Instituto Federal do Rio Grande do Sul.
