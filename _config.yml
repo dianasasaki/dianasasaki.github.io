@@ -167,8 +167,12 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
+  - CV.md # Historical 2026 snapshot; keep locally, do not publish the outdated copy.
+  - files # Theme sample PDFs and BibTeX, not Diana Sasaki's publications.
+  - _pages/non-menu-page.md
+  - _pages/archive-layout-with-content.md
+  - _pages/terms.md # Stock template text does not describe this site's actual settings.
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
