@@ -12,8 +12,6 @@ You can also find these publications on [the Google Scholar profile for Diana Sa
 
 ## Journal Articles
 
-The CV lists 50 journal articles, one book chapter, and 68 contributions to conference proceedings (11 full papers, 24 expanded abstracts, and 33 abstracts). Publication titles link to a DOI where one is recorded in the CV. Journal names link to a direct SCImago profile only where that profile has been identified; otherwise they remain unlinked.
-
 1. da Cruz, Mariana; **SASAKI, DIANA**; NIGRO, MAURO; DE FIGUEIREDO, CELINA M. H. [The AVD-total chromatic number of fullerene molecular graphs](https://doi.org/10.46298/dmtcs.15003). [*Discrete Mathematics & Theoretical Computer Science*](https://www.scimagojr.com/journalsearch.php?q=78470&tip=sid&clean=0), v. 28:2, p. 1, 2026.
 2. BORCHERT, INGRID; **SASAKI, DIANA**; NICODEMOS, DIEGO. [The Cost of Perfect Matchings in Prism Graphs](https://doi.org/10.1007/s44425-025-00037-0). *Matemática Contemporânea*, v. 00, p. 1, 2026.
 3. FARIA, LUERBIO; NIGRO, MAURO; **SASAKI, DIANA**. [A polynomial-time algorithm for conformable coloring on regular bipartite and subcubic graphs](https://doi.org/10.1016/j.disopt.2024.100865). [*Discrete Optimization*](https://www.scimagojr.com/journalsearch.php?q=28469&tip=sid&clean=0), v. 55, p. 100865, 2025.
