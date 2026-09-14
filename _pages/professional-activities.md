@@ -23,49 +23,11 @@ mathjax: true
 - Advisor in Math en Jeans with SESI/RJ schools.
 - Science-outreach fellow at Fundação Cecierj/FECTI since 2026.
 
-## Courses
+## Teaching
 
-### Numerical Calculus
+At the undergraduate level, I have taught **Numerical Calculus** in Engineering, Computer Science, Statistics, and Mathematics, as well as **Discrete Mathematics** in Computer Science, Mathematics, Informatics, and Mathematics Education. I have also taught **Finite Difference Calculus** in Statistics and, in the Technology program at CEDERJ, **Data Structures** and **Fundamentals of Algorithms for Computing**.
 
-- Engineering.
-- Computer Science.
-- Statistics.
-- Mathematics.
-
-### Discrete Mathematics
-
-- Computer Science.
-- Mathematics.
-- Informatics.
-- Mathematics Education.
-
-### Finite Difference Calculus
-
-- Statistics.
-
-### Special Topics in Algorithms and Graphs
-
-- Computational Sciences.
-
-### Special Topics in Mathematical Modeling
-
-- Computational Sciences.
-
-### Linear Algebra
-
-- Computational Sciences.
-
-### Introduction to Graph Theory
-
-- Specialization in Mathematics Learning.
-
-### Data Structures
-
-- Technology program at CEDERJ.
-
-### Fundamentals of Algorithms for Computing
-
-- Technology program at CEDERJ.
+At the graduate and specialization levels, I have taught **Special Topics in Algorithms and Graphs**, **Special Topics in Mathematical Modeling**, and **Linear Algebra** in Computational Sciences, and **Introduction to Graph Theory** in the specialization program in Mathematical Learning.
 
 ## Teacher Training
 

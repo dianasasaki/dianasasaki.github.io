@@ -25,8 +25,6 @@ My research is mostly about graphs: colorings, total colorings, equitable colori
 
 I am a CNPq Research Productivity Fellow, Level 2, a UERJ Prociência Fellow, a FAPERJ Young Scientist of Our State, and an affiliated member of the Brazilian Academy of Sciences. I received the 2017 L'Oréal–UNESCO–Brazilian Academy of Sciences For Women in Science Award in Mathematical Sciences.
 
-In 2026, I was a [plenary speaker at the 2nd Joint Meeting Brazil–Italy in Mathematics](https://umi.dm.unibo.it/jm-ita-bra-2026/plenary-speakers/) in Messina, Italy.
-
 I also care deeply about education and outreach. I work with Math en Jeans, Meninas Olímpicas do IMPA, and OME–OBMEP Mirim na Escola, connecting mathematics with students, teachers, and new generations of researchers. I contribute to science outreach through Fundação Cecierj.
 
 This site gathers my research, publications, teaching, professional activities, awards, scientific events, editorial work, and supervision.

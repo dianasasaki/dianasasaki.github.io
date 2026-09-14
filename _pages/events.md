@@ -5,10 +5,6 @@ permalink: /events/
 author_profile: true
 ---
 
-## Plenary and Invited Lectures
-
-- **2026:** [Plenary speaker at the 2nd Joint Meeting Brazil–Italy in Mathematics](https://umi.dm.unibo.it/jm-ita-bra-2026/plenary-speakers/), University of Messina, Italy — “The total coloring problem and its variants.”
-
 ## Event Organization and Program Committees
 
 - **2025:** Coordinator of Technical Session ST04 of the National Congress of Applied and Computational Mathematics (CNMAC).

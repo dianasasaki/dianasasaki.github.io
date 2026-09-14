@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-- **2026:** [Plenary speaker](https://umi.dm.unibo.it/jm-ita-bra-2026/plenary-speakers/) at the 2nd Joint Meeting Brazil–Italy in Mathematics, University of Messina, Italy; lecture: “The total coloring problem and its variants.”
+- **2026:** Plenary speaker at the 2nd Joint Meeting Brazil–Italy in Mathematics, University of Messina, Italy; lecture: “The total coloring problem and its variants.”
 - **2025:** Invited speaker in the Combinatorics Session of the Brazilian Mathematics Colloquium, IMPA.
 - **2025:** Invited speaker at the Meeting of Remarkable Women in Mathematics, Escola Firjan SESI Benfica.
 - **2025:** Affiliated member of the Brazilian Academy of Sciences (ABC).
